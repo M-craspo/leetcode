@@ -13,5 +13,4 @@ class Solution(object):
             if count[i] == 0:
                 missing = i
                 break
-                
         return [duplicate, missing]
